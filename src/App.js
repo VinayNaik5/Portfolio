@@ -38,7 +38,7 @@ function App() {
         <Circle/>
       </div>
       <div className='content'>
-        <h1 className=  'name'>Vinay Naik</h1>
+        <h1 className='name'>Vinay Naik</h1>
         <p className='p'>somthing about me </p>
       </div> 
     </div>
